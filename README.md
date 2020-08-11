@@ -1,4 +1,7 @@
-### Hi there 👋
+>✨🦑 ~/koterthecoder: yarns tart
+
+>zsh: command not found: yarns
+
 
 <!--
 **koterthecoder/koterthecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
