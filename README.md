@@ -1,4 +1,4 @@
->✨🦑 ~/koterthecoder: yarns tart
+>$ yarns tart
 
 >zsh: command not found: yarns
 
